@@ -1,4 +1,10 @@
 #include <iostream>
 using namespace std;
 
-int 
+int main(){
+
+cout << "hola mundo";
+
+return 0;
+
+}
